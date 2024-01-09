@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Java and Kotlin.
-- 📫 How to reach me: [Mail](kartikey.srivastava1271@gmail.com) , [LinkedIn](https://www.linkedin.com/in/kartikey-srivastava-bb913423a/)
+- 📫 How to reach me: kartikey.srivastava1271@gmail.com , [LinkedIn](https://www.linkedin.com/in/kartikey-srivastava-bb913423a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to figure out life.
 
