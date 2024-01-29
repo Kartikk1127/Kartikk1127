@@ -1,7 +1,7 @@
 ### Hi there, I'm Kartikey Srivastava 👋
 
-- 🔭 I’m currently working on Java, Kotlin, Ktor, Spring Boot & Rust
-- 🌱 I’m currently learning Rust and AWS.
+- 🔭 I’m currently working on Java, Kotlin, Ktor, Spring Boot & Python
+- 🌱 I’m currently learning Python and AWS.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Java and Kotlin.
